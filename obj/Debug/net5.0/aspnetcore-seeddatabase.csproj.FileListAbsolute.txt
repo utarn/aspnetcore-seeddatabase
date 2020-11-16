@@ -1,7 +1,6 @@
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\appsettings.Development.json
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\appsettings.json
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\aspnetcore-seeddatabase.StaticWebAssets.xml
-C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\app.db
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\aspnetcore-seeddatabase.exe
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\aspnetcore-seeddatabase.deps.json
 C:\projects\dotnet\aspnetcore-seeddatabase\bin\Debug\net5.0\aspnetcore-seeddatabase.runtimeconfig.json
